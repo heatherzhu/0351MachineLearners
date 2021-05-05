@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/0351MachineLearners/static/css/main.4a31df05.chunk.css",
+    "main.js": "/0351MachineLearners/static/js/main.0f1844e9.chunk.js",
+    "main.js.map": "/0351MachineLearners/static/js/main.0f1844e9.chunk.js.map",
+    "runtime-main.js": "/0351MachineLearners/static/js/runtime-main.e8d0cc5b.js",
+    "runtime-main.js.map": "/0351MachineLearners/static/js/runtime-main.e8d0cc5b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/0351MachineLearners/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1c62743c.chunk.js": "/0351MachineLearners/static/js/2.1c62743c.chunk.js",
+    "static/js/2.1c62743c.chunk.js.map": "/0351MachineLearners/static/js/2.1c62743c.chunk.js.map",
+    "index.html": "/0351MachineLearners/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/0351MachineLearners/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4a31df05.chunk.css.map": "/0351MachineLearners/static/css/main.4a31df05.chunk.css.map",
+    "static/js/2.1c62743c.chunk.js.LICENSE.txt": "/0351MachineLearners/static/js/2.1c62743c.chunk.js.LICENSE.txt",
+    "static/media/Heather.0cce7e39.jpg": "/0351MachineLearners/static/media/Heather.0cce7e39.jpg",
+    "static/media/Lillian.83c257db.jpg": "/0351MachineLearners/static/media/Lillian.83c257db.jpg",
+    "static/media/Megan.72def1bb.jpg": "/0351MachineLearners/static/media/Megan.72def1bb.jpg",
+    "static/media/Neil.e8a02cfe.jpg": "/0351MachineLearners/static/media/Neil.e8a02cfe.jpg",
+    "static/media/Patrick.cfd3ee3b.jpg": "/0351MachineLearners/static/media/Patrick.cfd3ee3b.jpg",
+    "static/media/Shaan.b6333cf7.jpg": "/0351MachineLearners/static/media/Shaan.b6333cf7.jpg",
+    "static/media/Yaewon.27aa83b6.jpg": "/0351MachineLearners/static/media/Yaewon.27aa83b6.jpg",
+    "static/media/example_abstract_plot.f85a4463.png": "/0351MachineLearners/static/media/example_abstract_plot.f85a4463.png",
+    "static/media/example_line_plot.be0f0d5a.png": "/0351MachineLearners/static/media/example_line_plot.be0f0d5a.png",
+    "static/media/facebook_logo.3cb08c9d.png": "/0351MachineLearners/static/media/facebook_logo.3cb08c9d.png",
+    "static/media/instagram_logo.1a1f0759.png": "/0351MachineLearners/static/media/instagram_logo.1a1f0759.png",
+    "static/media/profile-placeholder.79bfd233.png": "/0351MachineLearners/static/media/profile-placeholder.79bfd233.png",
+    "static/media/twitter_logo.973f7211.png": "/0351MachineLearners/static/media/twitter_logo.973f7211.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8d0cc5b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1c62743c.chunk.js",
+    "static/css/main.4a31df05.chunk.css",
+    "static/js/main.0f1844e9.chunk.js"
+  ]
+}
