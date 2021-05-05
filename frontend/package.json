@@ -2,6 +2,7 @@
   "name": "sentimental-image",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://heatherzhu.github.io/0351MachineLearners",
   "dependencies": {
     "@react-three/drei": "^4.1.8",
     "@react-three/fiber": "^6.0.6",
